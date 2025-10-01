@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\bin\Debug\MyfirstProgram.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\bin\Debug\MyfirstProgram.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\bin\Debug\MyfirstProgram.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\obj\Debug\MyfirstProgram.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\obj\Debug\MyfirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\obj\Debug\MyfirstProgram.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\obj\Debug\MyfirstProgram.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\MyfirstProgram\MyfirstProgram\obj\Debug\MyfirstProgram.exe.config

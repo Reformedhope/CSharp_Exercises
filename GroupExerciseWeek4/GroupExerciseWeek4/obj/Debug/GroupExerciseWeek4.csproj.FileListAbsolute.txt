@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\bin\Debug\GroupExerciseWeek4.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\bin\Debug\GroupExerciseWeek4.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\bin\Debug\GroupExerciseWeek4.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\obj\Debug\GroupExerciseWeek4.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\obj\Debug\GroupExerciseWeek4.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\obj\Debug\GroupExerciseWeek4.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\obj\Debug\GroupExerciseWeek4.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExerciseWeek4\GroupExerciseWeek4\obj\Debug\GroupExerciseWeek4.exe.config

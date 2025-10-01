@@ -1,0 +1,7 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\bin\Debug\groupEx-wk3.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\bin\Debug\groupEx-wk3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\bin\Debug\groupEx-wk3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\obj\Debug\groupEx-wk3.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\obj\Debug\groupEx-wk3.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\obj\Debug\groupEx-wk3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\groupEx-wk3\groupEx-wk3\obj\Debug\groupEx-wk3.pdb

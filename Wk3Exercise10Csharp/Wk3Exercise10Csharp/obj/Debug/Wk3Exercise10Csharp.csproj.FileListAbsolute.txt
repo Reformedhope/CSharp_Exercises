@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\obj\Debug\Wk3Exercise10Csharp.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\obj\Debug\Wk3Exercise10Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\bin\Debug\Wk3Exercise10Csharp.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\bin\Debug\Wk3Exercise10Csharp.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\bin\Debug\Wk3Exercise10Csharp.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\obj\Debug\Wk3Exercise10Csharp.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\obj\Debug\Wk3Exercise10Csharp.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk3Exercise10Csharp\Wk3Exercise10Csharp\obj\Debug\Wk3Exercise10Csharp.exe.config
