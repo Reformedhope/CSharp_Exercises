@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\bin\Debug\Wk5As5Ex6.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\bin\Debug\Wk5As5Ex6.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\bin\Debug\Wk5As5Ex6.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\obj\Debug\Wk5As5Ex6.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\obj\Debug\Wk5As5Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\obj\Debug\Wk5As5Ex6.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\obj\Debug\Wk5As5Ex6.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk5As5Ex6\Wk5As5Ex6\obj\Debug\Wk5As5Ex6.exe.config
