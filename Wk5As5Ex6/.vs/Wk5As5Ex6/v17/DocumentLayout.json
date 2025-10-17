@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\Wk5As5Ex6\\",
+  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5As5Ex6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79F5B423-4236-45B2-B942-92C07C45207D}|Wk5As5Ex6\\Wk5As5Ex6.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\wk5as5ex6\\wk5as5ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79F5B423-4236-45B2-B942-92C07C45207D}|Wk5As5Ex6\\Wk5As5Ex6.csproj|solutionrelative:wk5as5ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5As5Ex6\\Wk5As5Ex6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wk5As5Ex6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\Wk5As5Ex6\\Wk5As5Ex6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5As5Ex6\\Wk5As5Ex6\\Program.cs",
               "RelativeDocumentMoniker": "Wk5As5Ex6\\Program.cs",
-              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\Wk5As5Ex6\\Wk5As5Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5As5Ex6\\Wk5As5Ex6\\Program.cs",
               "RelativeToolTip": "Wk5As5Ex6\\Program.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwAcAAACmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

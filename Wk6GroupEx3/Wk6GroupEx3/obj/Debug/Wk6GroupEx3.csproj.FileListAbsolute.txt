@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\obj\Debug\Wk6GroupEx3.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\obj\Debug\Wk6GroupEx3.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\bin\Debug\Wk6GroupEx3.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\bin\Debug\Wk6GroupEx3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\bin\Debug\Wk6GroupEx3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\obj\Debug\Wk6GroupEx3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\obj\Debug\Wk6GroupEx3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Wk6GroupEx3\Wk6GroupEx3\obj\Debug\Wk6GroupEx3.exe.config
