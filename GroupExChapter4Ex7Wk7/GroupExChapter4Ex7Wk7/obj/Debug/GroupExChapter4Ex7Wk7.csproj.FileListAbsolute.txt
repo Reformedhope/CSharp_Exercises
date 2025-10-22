@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\bin\Debug\GroupExChapter4Ex7Wk7.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\bin\Debug\GroupExChapter4Ex7Wk7.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\bin\Debug\GroupExChapter4Ex7Wk7.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\obj\Debug\GroupExChapter4Ex7Wk7.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\obj\Debug\GroupExChapter4Ex7Wk7.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\obj\Debug\GroupExChapter4Ex7Wk7.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\obj\Debug\GroupExChapter4Ex7Wk7.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExChapter4Ex7Wk7\GroupExChapter4Ex7Wk7\obj\Debug\GroupExChapter4Ex7Wk7.exe.config
