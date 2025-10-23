@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\bin\Debug\EmployeePay.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\bin\Debug\EmployeePay.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\bin\Debug\EmployeePay.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.exe.config
