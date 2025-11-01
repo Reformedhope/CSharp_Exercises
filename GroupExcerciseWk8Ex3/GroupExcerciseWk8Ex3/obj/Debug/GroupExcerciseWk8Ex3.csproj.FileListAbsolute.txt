@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\obj\Debug\GroupExcerciseWk8Ex3.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\obj\Debug\GroupExcerciseWk8Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\bin\Debug\GroupExcerciseWk8Ex3.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\bin\Debug\GroupExcerciseWk8Ex3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\bin\Debug\GroupExcerciseWk8Ex3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\obj\Debug\GroupExcerciseWk8Ex3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\obj\Debug\GroupExcerciseWk8Ex3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupExcerciseWk8Ex3\GroupExcerciseWk8Ex3\obj\Debug\GroupExcerciseWk8Ex3.exe.config
