@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\Wk5GroupEx9\\",
+  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5GroupEx9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9DADB33-C379-419E-8A10-4490ECD4FFAB}|Wk5GroupEx9\\Wk5GroupEx9.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\wk5groupex9\\wk5groupex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9DADB33-C379-419E-8A10-4490ECD4FFAB}|Wk5GroupEx9\\Wk5GroupEx9.csproj|c:\\users\\steph\\onedrive\\desktop\\csharp_exercises\\wk5groupex9\\wk5groupex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9DADB33-C379-419E-8A10-4490ECD4FFAB}|Wk5GroupEx9\\Wk5GroupEx9.csproj|solutionrelative:wk5groupex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\Wk5GroupEx9\\Wk5GroupEx9\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5GroupEx9\\Wk5GroupEx9\\Program.cs",
               "RelativeDocumentMoniker": "Wk5GroupEx9\\Program.cs",
-              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\Wk5GroupEx9\\Wk5GroupEx9\\Program.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\Wk5GroupEx9\\Wk5GroupEx9\\Program.cs",
               "RelativeToolTip": "Wk5GroupEx9\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAiwFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwG0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T00:58:31.575Z",
               "EditorCaption": ""

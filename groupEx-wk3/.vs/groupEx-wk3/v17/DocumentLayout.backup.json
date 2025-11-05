@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\groupEx-wk3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B43FC1-C5F4-4381-81A9-B935AE2D2201}|groupEx-wk3\\groupEx-wk3.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\groupex-wk3\\groupex-wk3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B43FC1-C5F4-4381-81A9-B935AE2D2201}|groupEx-wk3\\groupEx-wk3.csproj|solutionrelative:groupex-wk3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\groupEx-wk3\\groupEx-wk3\\Program.cs",
+              "RelativeDocumentMoniker": "groupEx-wk3\\Program.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\groupEx-wk3\\groupEx-wk3\\Program.cs",
+              "RelativeToolTip": "groupEx-wk3\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:38:42.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

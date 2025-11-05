@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\bin\Debug\Assignment7Ex10.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\bin\Debug\Assignment7Ex10.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\bin\Debug\Assignment7Ex10.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\obj\Debug\Assignment7Ex10.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\obj\Debug\Assignment7Ex10.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\obj\Debug\Assignment7Ex10.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\obj\Debug\Assignment7Ex10.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Assignment7Ex10\Assignment7Ex10\obj\Debug\Assignment7Ex10.exe.config

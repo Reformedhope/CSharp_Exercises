@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupExcerciseWk8Ex3\\",
+  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupExcerciseWk8Ex3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8370C637-BA65-4D33-B9D7-43EAEE3542CA}|GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\groupexcercisewk8ex3\\groupexcercisewk8ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8370C637-BA65-4D33-B9D7-43EAEE3542CA}|GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3.csproj|solutionrelative:groupexcercisewk8ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GroupExcerciseWk8Ex3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3\\Program.cs",
               "RelativeDocumentMoniker": "GroupExcerciseWk8Ex3\\Program.cs",
-              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupExcerciseWk8Ex3\\GroupExcerciseWk8Ex3\\Program.cs",
               "RelativeToolTip": "GroupExcerciseWk8Ex3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T21:21:05.134Z",
               "EditorCaption": ""
