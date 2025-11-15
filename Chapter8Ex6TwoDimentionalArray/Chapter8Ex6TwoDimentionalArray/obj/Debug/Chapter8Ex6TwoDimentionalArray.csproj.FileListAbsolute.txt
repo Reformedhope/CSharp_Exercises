@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\obj\Debug\Chapter8Ex6TwoDimentionalArray.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\obj\Debug\Chapter8Ex6TwoDimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\bin\Debug\Chapter8Ex6TwoDimentionalArray.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\bin\Debug\Chapter8Ex6TwoDimentionalArray.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\bin\Debug\Chapter8Ex6TwoDimentionalArray.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\obj\Debug\Chapter8Ex6TwoDimentionalArray.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\obj\Debug\Chapter8Ex6TwoDimentionalArray.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter8Ex6TwoDimentionalArray\Chapter8Ex6TwoDimentionalArray\obj\Debug\Chapter8Ex6TwoDimentionalArray.exe.config

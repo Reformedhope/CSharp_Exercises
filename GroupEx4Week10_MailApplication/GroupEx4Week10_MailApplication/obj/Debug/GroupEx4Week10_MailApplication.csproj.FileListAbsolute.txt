@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\obj\Debug\GroupEx4Week10_MailApplication.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\obj\Debug\GroupEx4Week10_MailApplication.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\bin\Debug\GroupEx4Week10_MailApplication.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\bin\Debug\GroupEx4Week10_MailApplication.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\bin\Debug\GroupEx4Week10_MailApplication.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\obj\Debug\GroupEx4Week10_MailApplication.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\obj\Debug\GroupEx4Week10_MailApplication.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication\obj\Debug\GroupEx4Week10_MailApplication.exe.config

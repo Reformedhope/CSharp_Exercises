@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupEx4Week10_MailApplication", "GroupEx4Week10_MailApplication\GroupEx4Week10_MailApplication.csproj", "{369D877F-52BA-4970-9FF2-4E10EA6B4743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369D877F-52BA-4970-9FF2-4E10EA6B4743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369D877F-52BA-4970-9FF2-4E10EA6B4743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369D877F-52BA-4970-9FF2-4E10EA6B4743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369D877F-52BA-4970-9FF2-4E10EA6B4743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C9B349D-2D23-4607-B1A0-8F1BF82604C1}
+	EndGlobalSection
+EndGlobal
