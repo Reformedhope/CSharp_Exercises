@@ -1,0 +1,7 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\bin\Debug\Chapter3Exercise1.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\bin\Debug\Chapter3Exercise1.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\bin\Debug\Chapter3Exercise1.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\obj\Debug\Chapter3Exercise1.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\obj\Debug\Chapter3Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\obj\Debug\Chapter3Exercise1.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter3Exercise1\Chapter3Exercise1\obj\Debug\Chapter3Exercise1.pdb
