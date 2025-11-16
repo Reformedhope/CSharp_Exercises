@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\bin\Debug\Excerise 4Chapter3.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\bin\Debug\Excerise 4Chapter3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\bin\Debug\Excerise 4Chapter3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\obj\Debug\Excerise 4Chapter3.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\obj\Debug\Excerise 4Chapter3.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\obj\Debug\Excerise 4Chapter3.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\obj\Debug\Excerise 4Chapter3.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Excerise 4Chapter3\Excerise 4Chapter3\obj\Debug\Excerise 4Chapter3.exe.config
