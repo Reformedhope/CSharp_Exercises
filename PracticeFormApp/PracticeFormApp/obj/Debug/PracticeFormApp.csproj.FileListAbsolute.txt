@@ -1,0 +1,11 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\bin\Debug\PracticeFormApp.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\bin\Debug\PracticeFormApp.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\bin\Debug\PracticeFormApp.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.Form1.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.Properties.Resources.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.csproj.GenerateResource.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\PracticeFormApp\PracticeFormApp\obj\Debug\PracticeFormApp.exe.config
