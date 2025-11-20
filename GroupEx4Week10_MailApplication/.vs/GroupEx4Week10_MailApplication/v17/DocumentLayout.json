@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupEx4Week10_MailApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{369D877F-52BA-4970-9FF2-4E10EA6B4743}|GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\groupex4week10_mailapplication\\groupex4week10_mailapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{369D877F-52BA-4970-9FF2-4E10EA6B4743}|GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication.csproj|solutionrelative:groupex4week10_mailapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GroupEx4Week10_MailApplication\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{369D877F-52BA-4970-9FF2-4E10EA6B4743}|GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\groupex4week10_mailapplication\\groupex4week10_mailapplication\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{369D877F-52BA-4970-9FF2-4E10EA6B4743}|GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication.csproj|solutionrelative:groupex4week10_mailapplication\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GroupEx4Week10_MailApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "customer.cs",
-              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\customer.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\customer.cs",
               "RelativeDocumentMoniker": "GroupEx4Week10_MailApplication\\customer.cs",
-              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\customer.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\customer.cs",
               "RelativeToolTip": "GroupEx4Week10_MailApplication\\customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T00:59:57.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\Program.cs",
               "RelativeDocumentMoniker": "GroupEx4Week10_MailApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\GroupEx4Week10_MailApplication\\GroupEx4Week10_MailApplication\\Program.cs",
               "RelativeToolTip": "GroupEx4Week10_MailApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

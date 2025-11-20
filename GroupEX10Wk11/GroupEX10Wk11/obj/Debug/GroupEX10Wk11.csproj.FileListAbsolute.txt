@@ -1,0 +1,11 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\bin\Debug\GroupEX10Wk11.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\bin\Debug\GroupEX10Wk11.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\bin\Debug\GroupEX10Wk11.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.Form1.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.Properties.Resources.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.csproj.GenerateResource.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\GroupEX10Wk11\GroupEX10Wk11\obj\Debug\GroupEX10Wk11.exe.config
