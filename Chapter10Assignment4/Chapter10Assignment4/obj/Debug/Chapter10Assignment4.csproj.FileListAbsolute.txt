@@ -1,0 +1,11 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\bin\Debug\Chapter10Assignment4.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\bin\Debug\Chapter10Assignment4.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\bin\Debug\Chapter10Assignment4.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.Form1.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.Properties.Resources.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.csproj.GenerateResource.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\Chapter10Assignment4\Chapter10Assignment4\obj\Debug\Chapter10Assignment4.exe.config
