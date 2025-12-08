@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steph\\Downloads\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\BankingRegistryApp.csproj",
+      "projectUniqueName": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\BankingRegistryApp.csproj",
       "projectName": "BankingRegistryApp",
-      "projectPath": "C:\\Users\\Steph\\Downloads\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\BankingRegistryApp.csproj",
+      "projectPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\BankingRegistryApp.csproj",
       "packagesPath": "C:\\Users\\Steph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steph\\Downloads\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\obj\\",
+      "outputPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
