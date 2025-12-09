@@ -63,7 +63,8 @@
               "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\Form1.resx",
               "RelativeToolTip": "BankingRegistryApp\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-27T21:36:27.186Z"
+              "WhenOpened": "2025-11-27T21:36:27.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +76,8 @@
               "RelativeToolTip": "BankingRegistryApp\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T21:28:34.956Z"
+              "WhenOpened": "2025-11-27T21:28:34.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +89,8 @@
               "RelativeToolTip": "BankingRegistryApp\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:30:43.579Z"
+              "WhenOpened": "2025-11-25T13:30:43.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,7 +100,7 @@
               "RelativeDocumentMoniker": "BankingRegistryApp\\Form1.cs",
               "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\CSharp_Exercises\\BankRegisterApplication\\BankingRegistryApp\\BankingRegistryApp\\Form1.cs",
               "RelativeToolTip": "BankingRegistryApp\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T07:58:28.576Z",
               "EditorCaption": ""

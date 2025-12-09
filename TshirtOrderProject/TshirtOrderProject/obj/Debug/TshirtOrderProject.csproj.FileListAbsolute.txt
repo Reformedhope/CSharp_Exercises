@@ -1,0 +1,13 @@
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\bin\Debug\TshirtOrderProject.exe.config
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\bin\Debug\TshirtOrderProject.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\bin\Debug\TshirtOrderProject.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.OrderSummary.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.Form1.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.Help.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.Properties.Resources.resources
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.csproj.GenerateResource.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.exe
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.pdb
+C:\Users\Steph\OneDrive\Desktop\School Projects\CSharpProjects\TshirtOrderProject\TshirtOrderProject\obj\Debug\TshirtOrderProject.exe.config

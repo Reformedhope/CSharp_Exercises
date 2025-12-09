@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\tshirtorderproject\\tshirtorderproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|solutionrelative:tshirtorderproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\tshirtorderproject\\tshirtorderproject\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|solutionrelative:tshirtorderproject\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\tshirtorderproject\\tshirtorderproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|solutionrelative:tshirtorderproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\tshirtorderproject\\tshirtorderproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|solutionrelative:tshirtorderproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\tshirtorderproject\\tshirtorderproject\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|solutionrelative:tshirtorderproject\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|c:\\users\\steph\\onedrive\\desktop\\school projects\\csharpprojects\\tshirtorderproject\\tshirtorderproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E340B-D473-4A54-AE38-1B78AF213C20}|TshirtOrderProject\\TshirtOrderProject.csproj|solutionrelative:tshirtorderproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form2.cs",
+              "RelativeDocumentMoniker": "TshirtOrderProject\\Form2.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form2.cs",
+              "RelativeToolTip": "TshirtOrderProject\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:32:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form2.cs",
+              "RelativeDocumentMoniker": "TshirtOrderProject\\Form2.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form2.cs [Design]",
+              "RelativeToolTip": "TshirtOrderProject\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:30:02.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\form.cs",
+              "RelativeDocumentMoniker": "TshirtOrderProject\\form.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\form.cs",
+              "RelativeToolTip": "TshirtOrderProject\\form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:13:18.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\form.cs",
+              "RelativeDocumentMoniker": "TshirtOrderProject\\form.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\form.cs [Design]",
+              "RelativeToolTip": "TshirtOrderProject\\form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:06:17.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TshirtOrderProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form1.cs",
+              "RelativeToolTip": "TshirtOrderProject\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:42:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TshirtOrderProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Steph\\OneDrive\\Desktop\\School Projects\\CSharpProjects\\TshirtOrderProject\\TshirtOrderProject\\Form1.cs [Design]",
+              "RelativeToolTip": "TshirtOrderProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:34:40.943Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
