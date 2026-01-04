@@ -210,9 +210,16 @@ namespace Week13_Chapter10Ex10GroupAssignmentPizzaApp
             if (selectedToppings == null || selectedToppings.Length == 0) return 0;
 
             int extraToppings = selectedToppings.Length - 3;
-            if (extraToppings < 0) extraToppings = 0;
+            if (extraToppings < 0)
+            {
+                extraToppings = 0;
+            }
+            else
+            {
+                MessageBox.Show("")
+            }
 
-            return extraToppings * 1.50;
+                return extraToppings * 1.50;
         }
         //builds the full order taking the address information email, and phone the pizza price the sauce and toppings and displaying all the toppings. used \n to help break up the crazyness of styling. 
         private void BuildFullOrder(double totalPrice, double pizzaPrice, double toppingsCost, string sauce)

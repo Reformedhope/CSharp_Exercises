@@ -1,0 +1,15 @@
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\bin\Debug\net9.0\HelloCS.exe
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\bin\Debug\net9.0\HelloCS.deps.json
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\bin\Debug\net9.0\HelloCS.runtimeconfig.json
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\bin\Debug\net9.0\HelloCS.dll
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\bin\Debug\net9.0\HelloCS.pdb
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfo.cs
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.sourcelink.json
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.dll
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\refint\HelloCS.dll
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.pdb
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\HelloCS.genruntimeconfig.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\HelloCS\obj\Debug\net9.0\ref\HelloCS.dll

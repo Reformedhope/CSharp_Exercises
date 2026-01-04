@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\bin\Debug\HelloCSNET.exe.config
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\bin\Debug\HelloCSNET.exe
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\bin\Debug\HelloCSNET.pdb
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\obj\Debug\HelloCSNET.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\obj\Debug\HelloCSNET.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\obj\Debug\HelloCSNET.exe
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\obj\Debug\HelloCSNET.pdb
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCSNET\HelloCSNET\obj\Debug\HelloCSNET.exe.config

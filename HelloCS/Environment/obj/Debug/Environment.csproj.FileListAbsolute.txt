@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\bin\Debug\Environment.exe.config
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\bin\Debug\Environment.exe
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\bin\Debug\Environment.pdb
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\obj\Debug\Environment.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\obj\Debug\Environment.exe
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\obj\Debug\Environment.pdb
+C:\Users\Steph\OneDrive\Desktop\CSharp_Exercises\HelloCS\Environment\obj\Debug\Environment.exe.config
